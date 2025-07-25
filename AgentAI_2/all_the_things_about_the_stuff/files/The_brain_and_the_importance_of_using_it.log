@@ -1,0 +1,242 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.1)  25 JUL 2025 15:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"C:/Users/Kristjan Toplana/Desktop/usb/temp_workspace/AgentAI_2/all_the_thing
+s_about_the_stuff/files/The_brain_and_the_importance_of_using_it.tex"
+
+(c:/Users/Kristjan Toplana/Desktop/usb/temp_workspace/AgentAI_2/all_the_things_
+about_the_stuff/files/The_brain_and_the_importance_of_using_it.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-09>
+(c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(c:/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+)
+(c:/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(c:/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(c:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(c:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count286
+))
+(c:/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen157
+\ttl@minus=\dimen158
+\ttl@toksa=\toks19
+\titlewidth=\dimen159
+\titlewidthlast=\dimen160
+\titlewidthfirst=\dimen161
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count287
+)
+(C:\Users\Kristjan Toplana\Desktop\usb\temp_workspace\AgentAI_2\all_the_things_
+about_the_stuff\files/The_brain_and_the_importance_of_using_it.aux)
+\openout1 = `The_brain_and_the_importance_of_using_it.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+
+Overfull \hbox (0.89734pt too wide) in paragraph at lines 18--18
+|[]\T1/cmr/bx/n/17.28 Title 0 : Neu-ro-plas-tic-ity and Cog-ni-tive De-vel-op-m
+ent:
+ []
+
+
+Overfull \hbox (181.60144pt too wide) in paragraph at lines 20--20
+\T1/cmr/m/n/12 oth-er-wise im-prove brain func-tion. Im-age 25: Two peo-ple tal
+king:max_bytes(150000):strip_icc():format(webp)/GettyImages-
+ []
+
+
+Overfull \hbox (166.65425pt too wide) in paragraph at lines 20--20
+\T1/cmr/m/n/12 stand Oth-er-sIm-age 27: Elec-trodes and nee-dles at-tached to b
+rain:max_bytes(150000):strip_icc():format(webp)/electrodes-
+ []
+
+
+Overfull \hbox (16.71742pt too wide) in paragraph at lines 20--20
+\T1/cmr/m/n/12 and-needles-attached-to-brain-847721314-59ff38c4845b3400384096ab
+.jpg) Parts of the Brain-
+ []
+
+
+Overfull \hbox (171.98618pt too wide) in paragraph at lines 20--20
+\T1/cmr/m/n/12 Im-age 29: Sil-hou-ette lonely girl stand-ing on and look-ing to
+ sky:max_bytes(150000):strip_icc():format(webp)/GettyImages-
+ []
+
+
+Overfull \hbox (6.35759pt too wide) in paragraph at lines 20--20
+\T1/cmr/m/n/12 1168602741-cfef19f5e6004a1d99841b2f0ee658a4.jpg) A Deep Dive Int
+o Du-al-ism: The Mind-
+ []
+
+
+Overfull \hbox (121.51936pt too wide) in paragraph at lines 20--20
+\T1/cmr/m/n/12 Body Puz-zleIm-age 31: How to change your personality:max_bytes(
+150000):strip_icc():format(webp)/450746645-
+ []
+
+
+
+[1
+
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/
+texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+
+[2]
+
+[3]
+
+[4]
+Overfull \hbox (6.89778pt too wide) in paragraph at lines 46--46
+\T1/cmr/bx/n/17.28 Over-all Well-being: Nu-tri-tion, Sleep, and Stress Man-
+ []
+
+
+
+[5]
+
+[6]
+(C:\Users\Kristjan Toplana\Desktop\usb\temp_workspace\AgentAI_2\all_the_things_
+about_the_stuff\files/The_brain_and_the_importance_of_using_it.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2296 strings out of 467887
+ 35920 string characters out of 5438220
+ 449523 words of memory out of 5000000
+ 30877 multiletter control sequences out of 15000+600000
+ 632660 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,5n,65p,1505b,191s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texl
+ive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/
+fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on "C:\Users\Kristjan Toplana\Desktop\usb\temp_workspace\AgentAI
+_2\all_the_things_about_the_stuff\files/The_brain_and_the_importance_of_using_i
+t.pdf" (6 pages, 92581 bytes).
+PDF statistics:
+ 44 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
